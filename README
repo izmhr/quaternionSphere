@@ -1,1 +1,5 @@
-This is my test project for using quaternion technique to draw sphere.
+Using quaternion technic "Slerp" (spherical linear interpolation) , this sphere has uniformly distributed points on the surface. And then, move the surface with perlin noise.
+
+This code is based on an article of ynomura
+http://ynomura.dip.jp/archives/2009/04/post_36.html
+I appreciate all his work.
